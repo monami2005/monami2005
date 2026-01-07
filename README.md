@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Monami Sadhu</h1>
 <h3 align="center">A passionate B.Tech CSE student from India, focused on Cloud Computing & DevOps</h3>
 <img align="right" alt="coding"width="400"src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monami2005&label=Profile%20views&color=0e75b6&style=flat" alt="monami2005" /> </p>
-
-- ⚡ Fun fact **I am funny🙄**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monami2005&label=Profile%20views&color=0e75b6&style=flat" alt="monami2005" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
