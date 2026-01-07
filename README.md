@@ -1,9 +1,16 @@
 ![logo](https://github.com/monami2005/monami2005/edit/main/README.md)
 <h1 align="center">Hi 👋, I'm Monami Sadhu</h1>
-<h3 align="center">B.Tech Student exploring Cloud ☁️ & DevOps ⚙️
-Focused on scalable infrastructure, automation, and continuous delivery.</h3>
-<img align="right" alt="coding"width="400"src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monami2005&label=Profile%20views&color=0e75b6&style=flat" alt="monami2005" /> 
+<h3 align="center">B.Tech Student exploring Cloud ☁️ & DevOps ⚙️ Focused on scalable infrastructure, automation, and continuous delivery.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monami2005&label=Profile%20views&color=0e75b6&style=flat" alt="monami2005" /> </p>
+
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **💬 Ask me about Of course! Let's start with a general question: Can you tell me about an example of a hobby or activity you're passionate about?**
+
+- 📫 How to reach me **monamisadhu67@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/monami2005](https://github.com/monami2005)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +22,7 @@ Focused on scalable infrastructure, automation, and continuous delivery.</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monami2005&show_icons=true&locale=en&layout=compact" alt="monami2005" /></p>
 
