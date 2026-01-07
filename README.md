@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **💬 Ask me about Of course! Let's start with a general question: Can you tell me about an example of a hobby or activity you're passionate about?**
-
 - 📫 How to reach me **monamisadhu67@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/monami2005](https://github.com/monami2005)
